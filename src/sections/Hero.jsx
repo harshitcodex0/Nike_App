@@ -1,6 +1,11 @@
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section
+    id="home"
+    className="w-full flex xl:flex-row flex-col min-h-screen border-2 border-red-500 p-2"
+    >
+
+    </section>
   )
 }
 
